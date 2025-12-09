@@ -6,5 +6,5 @@ Analyzing how public emotions and attitudes toward religious issues evolve over 
 
 ## Authors
 
-- [@kevinmanurip](https://www.github.com/octokatherine)
+- [@kevinmanurip](https://www.github.com/kevinmanurip)
 
