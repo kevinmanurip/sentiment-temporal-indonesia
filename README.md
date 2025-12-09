@@ -8,3 +8,6 @@ Analyzing how public emotions and attitudes toward religious issues evolve over 
 
 - [@kevinmanurip](https://www.github.com/kevinmanurip)
 
+## Feedback
+
+If you have any feedback, please reach out to us at fake@fake.com
