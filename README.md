@@ -1,4 +1,5 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hej!👋 What's Up?</h1>
+<h3>Faith & Public Sentiment: Longitudinal Sentiment Analysis of Religious Discourse in Indonesian Social Media</h3>
 <p>Analyzing how public emotions and attitudes toward religious issues evolve over time using modern, reproducible NLP approaches. All data were collected from publicly available posts without storing personal identifiers.</p>
 
 ###
