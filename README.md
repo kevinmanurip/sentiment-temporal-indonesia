@@ -1,7 +1,7 @@
 
 # Faith & Public Sentiment: Longitudinal Sentiment Analysis of Religious Discourse in Indonesia Social Media
 
-Analyzing how public emotions and attitudes toward religious issues evolve over time using modern, reproducible NLP approaches.
+Analyzing how public emotions and attitudes toward religious issues evolve over time using modern, reproducible NLP approaches. All data were collected from publicly available posts without storing personal identifiers.
 
 
 ## Authors
